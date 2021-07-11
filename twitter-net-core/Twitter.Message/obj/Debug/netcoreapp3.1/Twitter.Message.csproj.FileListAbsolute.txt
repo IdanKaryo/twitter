@@ -1,0 +1,9 @@
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Message\bin\Debug\netcoreapp3.1\Twitter.Message.deps.json
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Message\bin\Debug\netcoreapp3.1\Twitter.Message.dll
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Message\bin\Debug\netcoreapp3.1\Twitter.Message.pdb
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Message\obj\Debug\netcoreapp3.1\Twitter.Message.csprojAssemblyReference.cache
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Message\obj\Debug\netcoreapp3.1\Twitter.Message.AssemblyInfoInputs.cache
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Message\obj\Debug\netcoreapp3.1\Twitter.Message.AssemblyInfo.cs
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Message\obj\Debug\netcoreapp3.1\Twitter.Message.csproj.CoreCompileInputs.cache
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Message\obj\Debug\netcoreapp3.1\Twitter.Message.dll
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Message\obj\Debug\netcoreapp3.1\Twitter.Message.pdb

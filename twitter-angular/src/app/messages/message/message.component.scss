@@ -1,0 +1,16 @@
+.message {
+  display: flex;
+  flex-direction: row;
+}
+
+.name {
+  width: 15%;
+}
+
+.date {
+  width: 25%;
+}
+
+.text {
+  width: 60%;
+}

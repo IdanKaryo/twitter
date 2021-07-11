@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter", "Twitter\Twitter.csproj", "{E5AA03DD-FD89-4C34-B85A-3C9DDA360A29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter.User", "User\Twitter.User.csproj", "{F822EB6A-B3C1-45AD-A21A-04C6679BF9B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter.Authentication", "Authentication\Twitter.Authentication.csproj", "{0857A23E-A958-4DA6-80B5-6EB2E7D560F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter.DAL", "Twitter.DAL\Twitter.DAL.csproj", "{F88F167E-513F-4C86-8443-3B112F957D5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter.Message", "Twitter.Message\Twitter.Message.csproj", "{9139193E-E230-43F3-A376-85C69AF70CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter.Common", "Twitter.Common\Twitter.Common.csproj", "{77F0AEEA-BFF1-4ED1-A8B4-C25BCACEC799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5AA03DD-FD89-4C34-B85A-3C9DDA360A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AA03DD-FD89-4C34-B85A-3C9DDA360A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AA03DD-FD89-4C34-B85A-3C9DDA360A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AA03DD-FD89-4C34-B85A-3C9DDA360A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F822EB6A-B3C1-45AD-A21A-04C6679BF9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F822EB6A-B3C1-45AD-A21A-04C6679BF9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F822EB6A-B3C1-45AD-A21A-04C6679BF9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F822EB6A-B3C1-45AD-A21A-04C6679BF9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0857A23E-A958-4DA6-80B5-6EB2E7D560F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0857A23E-A958-4DA6-80B5-6EB2E7D560F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0857A23E-A958-4DA6-80B5-6EB2E7D560F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0857A23E-A958-4DA6-80B5-6EB2E7D560F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88F167E-513F-4C86-8443-3B112F957D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88F167E-513F-4C86-8443-3B112F957D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88F167E-513F-4C86-8443-3B112F957D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88F167E-513F-4C86-8443-3B112F957D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9139193E-E230-43F3-A376-85C69AF70CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9139193E-E230-43F3-A376-85C69AF70CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9139193E-E230-43F3-A376-85C69AF70CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9139193E-E230-43F3-A376-85C69AF70CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F0AEEA-BFF1-4ED1-A8B4-C25BCACEC799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F0AEEA-BFF1-4ED1-A8B4-C25BCACEC799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F0AEEA-BFF1-4ED1-A8B4-C25BCACEC799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F0AEEA-BFF1-4ED1-A8B4-C25BCACEC799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C052C694-72F7-4E8E-9D16-8C0C1631FEE8}
+	EndGlobalSection
+EndGlobal

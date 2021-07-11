@@ -1,0 +1,24 @@
+<footer class="footer" [ngClass]="{'has-cards': getPath()!=='/user-profile' && getPath()!=='/register' && getPath()!=='/login'}">
+
+  <div class="container">
+    <div class="row row-grid align-items-center" [ngClass]="{'my-md': getPath()!=='/user-profile' && getPath()!=='/register' && getPath()!=='/login', 'mb-5':getPath()==='/user-profile' || getPath()==='/register' || getPath()==='/login'}">
+      <div>
+        <h3 class="text-primary font-weight-light mb-2">Twitter Guide</h3>
+        <h4 class="mb-0 font-weight-light">1. Sign up/Sign In</h4>
+        <h4 class="mb-0 font-weight-light">2. Navigate to Messages page.</h4>
+        <h4 class="mb-0 font-weight-light">3. You can post new messages and see other's.</h4>
+        <h4 class="mb-0 font-weight-light">4. You can Filter messages by username or part of, use empty value to fetch all.</h4>
+        <h4 class="mb-0 font-weight-light">5. We'll let you know when other user posted.</h4>
+      </div>
+    </div>
+    <hr>
+    <div class="row align-items-center justify-content-md-between">
+      <div class="col-md-6">
+        <div class="copyright">
+          &copy; {{test | date: 'yyyy'}}
+          Twitter
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,53 @@
+<nav id="navbar-main" class="navbar navbar-main navbar-expand-lg navbar-transparent navbar-light headroom headroom--top headroom--pinned">
+  <div class="container">
+    <a class="logo mr-lg-6" [routerLink]="['/home']">
+      <img src="./assets/img/brand/logo-Twitter.png">
+    </a>
+    <button class="navbar-toggler" type="button" (click)="isCollapsed = !isCollapsed"
+          [attr.aria-expanded]="!isCollapsed" aria-controls="navbar_global">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="navbar_global" [ngbCollapse]="isCollapsed">
+      <div class="navbar-collapse-header">
+        <div class="row">
+          <div class="col-6 collapse-brand">
+            <a [routerLink]="['/home']">
+              <img src="./assets/img/brand/blue.png">
+            </a>
+          </div>
+          <div class="col-6 collapse-close">
+            <button type="button" class="navbar-toggler" (click)="isCollapsed = !isCollapsed"
+                  [attr.aria-expanded]="!isCollapsed" aria-controls="navbar_global">
+              <span></span>
+              <span></span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
+        <li class="nav-item dropdown">
+<!--          <a class="nav-link no-caret" data-toggle="dropdown" role="button">-->
+<!--            <i class="ni ni-collection d-lg-none"></i>-->
+<!--            <span class="nav-link-inner&#45;&#45;text">Menu</span>-->
+<!--          </a>-->
+<!--          <div class="dropdown-menu">-->
+<!--            <a [routerLink]="['/login']" class="dropdown-item">Login</a>-->
+<!--            <a [routerLink]="['/register']" class="dropdown-item">Register</a>-->
+<!--            <a [routerLink]="['/messages']" class="dropdown-item">Messages</a>-->
+<!--          </div>-->
+        </li>
+      </ul>
+      <ul class="navbar-nav align-items-lg-center ml-lg-auto">
+        <li class="nav-item d-none d-lg-block ml-lg-4">
+          <div class="btn btn-neutral btn-icon">
+            <span class="btn-inner--icon">
+              <i class="fa fa-user-o mr-2"></i>
+            </span>
+            <span *ngIf="!authenticationService.currentUserValue" class="nav-link-inner--text" (click)="onSignup()">Signup</span>
+            <span *ngIf="authenticationService.currentUserValue" class="nav-link-inner--text" (click)="onLogout()">Logout</span>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

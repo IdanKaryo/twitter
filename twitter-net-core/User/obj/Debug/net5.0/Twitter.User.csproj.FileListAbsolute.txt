@@ -1,0 +1,17 @@
+C:\Users\ikaryo\source\repos\Twitter\User\bin\Debug\net5.0\Twitter.User.deps.json
+C:\Users\ikaryo\source\repos\Twitter\User\bin\Debug\net5.0\Twitter.User.dll
+C:\Users\ikaryo\source\repos\Twitter\User\bin\Debug\net5.0\ref\Twitter.User.dll
+C:\Users\ikaryo\source\repos\Twitter\User\bin\Debug\net5.0\Twitter.User.pdb
+C:\Users\ikaryo\source\repos\Twitter\User\obj\Debug\net5.0\Twitter.User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikaryo\source\repos\Twitter\User\obj\Debug\net5.0\Twitter.User.AssemblyInfoInputs.cache
+C:\Users\ikaryo\source\repos\Twitter\User\obj\Debug\net5.0\Twitter.User.AssemblyInfo.cs
+C:\Users\ikaryo\source\repos\Twitter\User\obj\Debug\net5.0\Twitter.User.csproj.CoreCompileInputs.cache
+C:\Users\ikaryo\source\repos\Twitter\User\obj\Debug\net5.0\Twitter.User.dll
+C:\Users\ikaryo\source\repos\Twitter\User\obj\Debug\net5.0\ref\Twitter.User.dll
+C:\Users\ikaryo\source\repos\Twitter\User\obj\Debug\net5.0\Twitter.User.pdb
+C:\Users\ikaryo\source\repos\Twitter\User\bin\Debug\net5.0\Twitter.DAL.dll
+C:\Users\ikaryo\source\repos\Twitter\User\bin\Debug\net5.0\Twitter.DAL.pdb
+C:\Users\ikaryo\source\repos\Twitter\User\obj\Debug\net5.0\Twitter.User.csprojAssemblyReference.cache
+C:\Users\ikaryo\source\repos\Twitter\User\obj\Debug\net5.0\Twitter.User.csproj.CopyComplete
+C:\Users\ikaryo\source\repos\Twitter\User\bin\Debug\net5.0\Twitter.Common.dll
+C:\Users\ikaryo\source\repos\Twitter\User\bin\Debug\net5.0\Twitter.Common.pdb

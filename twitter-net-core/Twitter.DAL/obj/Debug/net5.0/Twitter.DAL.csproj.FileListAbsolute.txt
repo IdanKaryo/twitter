@@ -1,0 +1,15 @@
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\bin\Debug\net5.0\Twitter.DAL.deps.json
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\bin\Debug\net5.0\Twitter.DAL.runtimeconfig.json
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\bin\Debug\net5.0\Twitter.DAL.runtimeconfig.dev.json
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\bin\Debug\net5.0\Twitter.DAL.dll
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\bin\Debug\net5.0\ref\Twitter.DAL.dll
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\bin\Debug\net5.0\Twitter.DAL.pdb
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\obj\Debug\net5.0\Twitter.DAL.csprojAssemblyReference.cache
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\obj\Debug\net5.0\Twitter.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\obj\Debug\net5.0\Twitter.DAL.AssemblyInfoInputs.cache
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\obj\Debug\net5.0\Twitter.DAL.AssemblyInfo.cs
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\obj\Debug\net5.0\Twitter.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\obj\Debug\net5.0\Twitter.DAL.dll
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\obj\Debug\net5.0\ref\Twitter.DAL.dll
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\obj\Debug\net5.0\Twitter.DAL.pdb
+C:\Users\ikaryo\source\repos\Twitter\Twitter.DAL\obj\Debug\net5.0\Twitter.DAL.genruntimeconfig.cache

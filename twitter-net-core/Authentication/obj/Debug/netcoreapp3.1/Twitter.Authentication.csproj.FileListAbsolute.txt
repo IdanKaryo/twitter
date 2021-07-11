@@ -1,0 +1,3 @@
+C:\Users\ikaryo\source\repos\Twitter\Authentication\obj\Debug\netcoreapp3.1\Twitter.Authentication.AssemblyInfoInputs.cache
+C:\Users\ikaryo\source\repos\Twitter\Authentication\obj\Debug\netcoreapp3.1\Twitter.Authentication.AssemblyInfo.cs
+C:\Users\ikaryo\source\repos\Twitter\Authentication\obj\Debug\netcoreapp3.1\Twitter.Authentication.csproj.CoreCompileInputs.cache

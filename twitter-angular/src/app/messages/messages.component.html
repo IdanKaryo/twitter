@@ -1,0 +1,57 @@
+<main>
+    <section class="section section-shaped section-lg">
+        <div class="shape shape-style-1 bg-gradient-default">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="container">
+            <div >
+                <div >
+                    <div class="card bg-secondary shadow border-0">
+                        <div class="card-body px-lg-5 py-lg-5">
+                            <form role="form" [formGroup]="postMessageForm">
+                                <div class="form-group mb-3" [ngClass]="{'focused':focus===true}">
+                                    <div class="input-group input-group-alternative">
+                                        <div class="input-group-prepend">
+                                            <span class="input-group-text"><i class="ni ni-email-83"></i></span>
+                                        </div>
+                                        <input class="form-control" formControlName="message" placeholder="Write something ..." type="text" (focus)="focus=true" (blur)="focus=false">
+                                    </div>
+                                </div>
+                                <div class="text-center">
+                                    <button type="button" class="btn btn-primary my-4" (click)="onPostMessage()">Post!</button>
+                                </div>
+                                <span></span>
+                                <span></span>
+                                <div class="form-group mb-3" [ngClass]="{'focused':focus===true}">
+                                    <div class="input-group input-group-alternative">
+                                        <div class="input-group-prepend">
+                                            <span class="input-group-text"><i class="ni ni-single-02"></i></span>
+                                        </div>
+                                        <input class="form-control" (input)="onFilterChange($event.target.value)" formControlName="filter" placeholder="filter user ..." type="text" (focus)="focus=true" (blur)="focus=false">
+                                    </div>
+                                </div>
+                                <div class="text-center">
+                                    <button type="button" *ngIf="messageService.hasNewMessages$ | async" class="btn btn-primary my-4" (click)="onReloadMessages()">
+                                        New messages, Reload !
+                                    </button>
+                                    <virtual-scroller #scroll [items]="messageService.messages$ | async">
+                                        <app-message *ngFor="let message of scroll.viewPortItems"
+                                                [message]="message">
+                                        </app-message>
+                                    </virtual-scroller>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>

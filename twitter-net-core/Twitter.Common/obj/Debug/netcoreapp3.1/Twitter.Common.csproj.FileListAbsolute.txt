@@ -1,0 +1,9 @@
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Common\bin\Debug\netcoreapp3.1\Twitter.Common.deps.json
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Common\bin\Debug\netcoreapp3.1\Twitter.Common.dll
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Common\bin\Debug\netcoreapp3.1\Twitter.Common.pdb
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Common\obj\Debug\netcoreapp3.1\Twitter.Common.csprojAssemblyReference.cache
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Common\obj\Debug\netcoreapp3.1\Twitter.Common.AssemblyInfoInputs.cache
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Common\obj\Debug\netcoreapp3.1\Twitter.Common.AssemblyInfo.cs
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Common\obj\Debug\netcoreapp3.1\Twitter.Common.csproj.CoreCompileInputs.cache
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Common\obj\Debug\netcoreapp3.1\Twitter.Common.dll
+C:\Users\ikaryo\source\repos\Twitter\Twitter.Common\obj\Debug\netcoreapp3.1\Twitter.Common.pdb
